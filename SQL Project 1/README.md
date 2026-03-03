@@ -12,7 +12,7 @@ This project demonstrates real-world SQL skills including schema design, normali
 ## 📁 Project Structure
 
 ```
-ecommerce-sql/
+ecommerce/
 ├── schema/
 │   ├── 01_schema.sql              # All CREATE TABLE statements + indexes
 │   ├── 06_coupons.sql             # Coupon/discount code table + sample data
